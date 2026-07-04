@@ -1,0 +1,21 @@
+Timestamp,Model,Subject,Emotion,Confidence,User Input
+2026-07-02 19:59:46,BiLSTM,Python,Confident,89.51%,i cannot understand python
+2026-07-02 20:00:27,BiLSTM,Python,Frustrated,74.75%,i failed python
+2026-07-02 21:33:56,BiLSTM,DBMS,Confident,73.14%,i cannot understand dbms
+2026-07-02 21:33:56,BiLSTM,DBMS,Confident,73.14%,i cannot understand dbms
+2026-07-03 11:45:20,BiLSTM,Python,Confident,99.85%,i solved a question in python today
+2026-07-03 11:45:20,BiLSTM,Python,Confident,99.85%,i solved a question in python today
+2026-07-03 11:57:10,BiLSTM,Python,Confident,99.13%,i solved a question
+2026-07-03 11:57:10,BiLSTM,Python,Confident,99.13%,i solved a question
+2026-07-03 12:03:05,BiLSTM,Python,Confident,99.13%,i cannot solve problems in python
+2026-07-03 12:03:05,BiLSTM,Python,Confident,99.13%,i cannot solve problems in python
+2026-07-03 12:07:24,BiLSTM,Python,Confident,54.08%,"I don't understand recursion."""
+2026-07-03 12:07:24,BiLSTM,Python,Confident,54.08%,"I don't understand recursion."""
+2026-07-03 12:09:02,BERT,Python,Confident,94.21%,"""I'm excited because I solved the problem."""
+2026-07-03 12:09:02,BERT,Python,Confident,94.21%,"""I'm excited because I solved the problem."""
+2026-07-03 12:09:50,BERT,DBMS,Frustrated,80.62%,I feel frustrated with SQL joins
+2026-07-03 12:09:50,BERT,DBMS,Frustrated,80.62%,I feel frustrated with SQL joins
+2026-07-04 12:05:22,BiLSTM,Python,Confused,98.88%,I am confused about recursion.
+2026-07-04 12:06:20,BERT,DBMS,Frustrated,67.72%,I am frustrated with SQL joins.
+2026-07-04 12:07:40,BiLSTM,Artificial Intelligence,Confident,94.24%,I feel confident after completing my assignment.
+2026-07-04 15:08:56,BiLSTM,Python,Confident,82.30%,I have been trying to learn recursion for two days and I still don't understand it. I feel really frustrated and I don't know where to start.
