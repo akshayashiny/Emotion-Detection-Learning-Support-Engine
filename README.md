@@ -209,6 +209,7 @@ The application displays:
 # 👨‍💻 Developed By
 
 **Akshaya S**
+**Rithika Sundari S**
 
 B.Tech Computer Science and Engineering
 
