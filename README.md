@@ -210,6 +210,7 @@ The application displays:
 
 **Akshaya S**
 **Rithika Sundari S**
+**Pavan Eluri**
 
 B.Tech Computer Science and Engineering
 
