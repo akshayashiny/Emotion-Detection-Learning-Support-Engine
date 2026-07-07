@@ -206,13 +206,15 @@ The application displays:
 
 ---
 
-# 👨‍💻 Developed By
+## 👨‍💻 Developed By
 
-**Akshaya S**
-**Rithika Sundari S**
-**Pavan Eluri**
+### Team Members
 
-B.Tech Computer Science and Engineering
+- **Akshaya S**
+- **Rithika Sundari S**
+- **Pavan Eluri**
+
+🎓 **B.Tech in Computer Science and Engineering**
 
 ---
 
