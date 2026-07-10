@@ -99,7 +99,7 @@ Emotion-Detection-Learning-Support-Engine/
 ## Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/akshayashiny/Emotion-Detection-Learning-Support-Engine.git
 ```
 
 ## Navigate to the project
