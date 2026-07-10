@@ -19,3 +19,10 @@ Timestamp,Model,Subject,Emotion,Confidence,User Input
 2026-07-04 12:06:20,BERT,DBMS,Frustrated,67.72%,I am frustrated with SQL joins.
 2026-07-04 12:07:40,BiLSTM,Artificial Intelligence,Confident,94.24%,I feel confident after completing my assignment.
 2026-07-04 15:08:56,BiLSTM,Python,Confident,82.30%,I have been trying to learn recursion for two days and I still don't understand it. I feel really frustrated and I don't know where to start.
+2026-07-09 19:04:42,BiLSTM,Python,Confused,48.74%,i have been studying recursion for hours but i still dont understand it.i feel frustrated
+2026-07-09 19:25:32,BiLSTM,Python,Confused,48.74%,I have been studying recursion for hours but i still dont understand it. i feel frustrated.
+2026-07-09 19:25:43,BiLSTM,Python,Confused,48.74%,I have been studying recursion for hours but i still dont understand it. i feel frustrated.
+2026-07-09 19:29:10,BERT,Artificial Intelligence,Confident,49.10%,I have learned about nlp but im not abble to write code. i dont understand how to start
+2026-07-10 18:29:34,BERT,Data Structures,Frustrated,69.62%,I cannot understand arrays topic. I feel so frustrated.
+2026-07-10 18:46:18,BERT,Data Structures,Frustrated,86.42%,I cannot understand algorithms. Im so sad.
+2026-07-10 18:49:02,BERT,Data Structures,Frustrated,52.13%,I cannot understand trees in data structures since 2hours i have been studying. im frustrated.
