@@ -206,11 +206,11 @@ The application displays:
 
 ---
 
-## 👨‍💻 Developed By
+## 👨‍💻 Developed By-
 
 ### Team Members
 
-- **Akshaya S**
+- **Akshaya Sugali**
 - **Rithika Sundari S**
 - **Pavan Eluri**
 
